@@ -1,3 +1,5 @@
 Proyecto sobre el uso de Git y GitHub.
 Git permite llevar un control de versiones.
 GitHub permite almacenar y compartir repositorios. 
+El control de versiones permite consultar los cambios realizados. 
+Los commits documentaran la evolución de los archivos.
