@@ -1,3 +1,5 @@
 Git permite registrar las modificaciones realizadas en un proyecto. 
 Los commits ayudan a comprender el historial de cambios.
 GitHub permite compartir y consultar el repositorio. 
+El uso de Git facilita el trabajo organizado.
+Es importante usar mensajes claros para cada commit. 
