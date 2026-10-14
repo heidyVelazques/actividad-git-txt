@@ -1,0 +1,3 @@
+Git permite registrar las modificaciones realizadas en un proyecto. 
+Los commits ayudan a comprender el historial de cambios.
+GitHub permite compartir y consultar el repositorio. 
