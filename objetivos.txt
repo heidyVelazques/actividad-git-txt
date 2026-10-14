@@ -1,3 +1,5 @@
 Aprender los comandos básicos de Git.
 Crear y modificar archivos de texto. 
 Modificar cambios mediante commits descriptivos. 
+Practicar el uso de git status.
+Aprender a enviar cambios al repositorio remoto.
